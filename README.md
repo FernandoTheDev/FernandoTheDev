@@ -12,6 +12,7 @@ Seasoned backend engineer with expertise in high-performance systems and languag
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![D](https://img.shields.io/badge/D-BA595E?style=for-the-badge&logo=d&logoColor=white)
 
 ### Systems Tooling  
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
